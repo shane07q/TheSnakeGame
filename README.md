@@ -68,10 +68,6 @@ The project is built using a modular class structure:
 * **`Food`**: Handles food generation logic, ensuring it doesn't spawn on obstacles or the snake.
 * **`Snake`**: Manages the snake's body (using a vector of positions), movement logic, collision detection, and growth.
 
-## 📸 Screenshots
-
-*(You can add a screenshot here of your console running the game)*
-
 ## 🔮 Future Improvements
 
 * Implement a leaderboard to show top 5 players instead of just the high score.
