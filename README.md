@@ -83,4 +83,4 @@ The project is built using a modular class structure:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-Made with ❤️ by [Your Name]
+By Shane Christian
